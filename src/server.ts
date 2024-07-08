@@ -1,0 +1,5 @@
+export const server = "http://localhost:8000/"
+export const provinsiurl = "https://api.binderbyte.com/wilayah/provinsi?api_key="
+export const kabupatenurl = "https://api.binderbyte.com/wilayah/kabupaten?api_key="
+export const kecamatanurl = "https://api.binderbyte.com/wilayah/kecamatan?api_key="
+export const desaurl = "https://api.binderbyte.com/wilayah/kelurahan?api_key="

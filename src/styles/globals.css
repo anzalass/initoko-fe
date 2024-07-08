@@ -1,7 +1,7 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
-
+/* 
 :root {
   --foreground-rgb: 0, 0, 0;
   --background-start-rgb: 214, 219, 220;
@@ -30,4 +30,26 @@ body {
   .text-balance {
     text-wrap: balance;
   }
-}
+} */
+ .slick-slide > div {
+  margin:  10px;
+ } 
+
+
+
+
+ h1.heading-style {
+  font-size: 34px;
+  line-height: 28px;
+  font-weight: 700;
+ }
+ h2.heading-style {
+  font-size: 20px;
+  line-height: 24px;
+  font-weight: 600;
+ }
+ h3.heading-style {
+  font-size: 18px;
+  line-height: 20px;
+  font-weight: 500;
+ }
